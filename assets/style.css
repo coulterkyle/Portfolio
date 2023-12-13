@@ -91,6 +91,13 @@ header h1 {
     width: 80%;
 }
 
+.coming-soon img {
+    height: 40%;
+    width: 40%;
+}
+
+
+
 #recent-work img:hover {
     border: 10px solid white;
 }
