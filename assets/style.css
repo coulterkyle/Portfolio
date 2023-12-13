@@ -81,11 +81,14 @@ header h1 {
 
 .recent-work img {
     display: block;
-    height: 200px;
-    width: 400px;
     margin-left: auto;
     margin-right: auto;
     border: 3px solid black;
+}
+
+.featured img {
+    height: 80%;
+    width: 80%;
 }
 
 #recent-work img:hover {
